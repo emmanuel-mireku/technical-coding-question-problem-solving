@@ -31,4 +31,3 @@ console.log(twoSum([-5, -3, -1, 1, 2], 30)); // []
 console.log(twoSum([-3, -2, -1, 1, 1, 3, 4], -4)); // [-3, -1]
 console.log(twoSum([1, 2, 3, 4, 5, 6, 7, 8]), 4);
 console.log(twoSum([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 2)); // [1, 1]
-twoSum
